@@ -1,0 +1,20 @@
+{
+  "name": "VESPERA V5.0 — Liquid Glass Assistant",
+  "short_name": "VESPERA",
+  "description": "Build your system, one step at a time.",
+  "lang": "ar",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#05070d",
+  "theme_color": "#05070d",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
